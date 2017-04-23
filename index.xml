@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Infrastructure Engineer&#39;s Experiences</title>
+    <link>https://nmap.host/index.xml</link>
+    <description>Recent content on Infrastructure Engineer&#39;s Experiences</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Apr 2017 13:13:03 +0530</lastBuildDate>
+    <atom:link href="https://nmap.host/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about the blog</title>
+      <link>https://nmap.host/post/about-the-blog/</link>
+      <pubDate>Sun, 23 Apr 2017 13:13:03 +0530</pubDate>
+      
+      <guid>https://nmap.host/post/about-the-blog/</guid>
+      <description>&lt;p&gt;Hello, World!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
